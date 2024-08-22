@@ -11,12 +11,12 @@ This project was developed during the Data Track of the [Desenvolve Program from
 ### Challenge  
 Perform a comprehensive analysis using Python and the Pandas library on a rental prices dataset from São Paulo. Use linear regression to model a relationship between variables in the dataset. Students will learn to import data, clean, explore, visualize, and draw conclusions from the data, as well as fit a linear regression model and evaluate its performance.
 
-### Steps
-**a. Obtain Dataset:** Download the dataset from this [link](https://drive.google.com/file/d/1DcS1VgGGVa5O6JHuD7ZeKmxgI1ejCw4m/view);
-**b. Import and Clean:** Import the data into a Pandas DataFrame, clean the data, and handle missing values;
-**c. Descriptive Analysis:** Perform a descriptive analysis of the data by calculating basic statistics and identifying trends;
-**d. Linear Regression Modeling:** Fit a linear regression model to the data to predict rental prices in a given area;
-**e. Data Visualization:** Create graphical visualizations using libraries like Matplotlib or Seaborn to represent the data;
+### Steps  
+**a. Obtain Dataset:** Download the dataset from this [link](https://drive.google.com/file/d/1DcS1VgGGVa5O6JHuD7ZeKmxgI1ejCw4m/view);  
+**b. Import and Clean:** Import the data into a Pandas DataFrame, clean the data, and handle missing values;  
+**c. Descriptive Analysis:** Perform a descriptive analysis of the data by calculating basic statistics and identifying trends;  
+**d. Linear Regression Modeling:** Fit a linear regression model to the data to predict rental prices in a given area;  
+**e. Data Visualization:** Create graphical visualizations using libraries like Matplotlib or Seaborn to represent the data;  
 **f. Conclusions:** Draw conclusions from the analyses performed and present the results in a report.
 
 *Versão em português*
